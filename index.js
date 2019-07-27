@@ -1,1 +1,1 @@
-const expect = require('expect')
+console.error("HALP!")
